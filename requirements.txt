@@ -1,0 +1,4 @@
+pycountry
+psycopg2-binary
+thefuzz[speedup]
+python-dotenv
